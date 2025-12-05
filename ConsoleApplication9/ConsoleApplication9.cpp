@@ -407,7 +407,7 @@ void StartProgram() {
 }
 
 int main() {
-	StartProgram();
+	StartProgram();;
 
 	return 0;
 }
