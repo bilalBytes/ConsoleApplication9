@@ -407,7 +407,7 @@ void StartProgram() {
 }
 
 int main() {
-	StartProgram();;
-
+	StartProgram();
+	cout << "Hello world " << endl;
 	return 0;
 }
